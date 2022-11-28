@@ -1,1 +1,1 @@
-# JinumolKJ_car_price_prediction
+# JinumolKJ_Lab5_Python for DS
